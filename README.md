@@ -1,0 +1,1 @@
+a iteration on https://johanegustafsson.net/projects/swerty/ corrected for later MacOS versions
